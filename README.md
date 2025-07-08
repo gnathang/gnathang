@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development with React and WordPress
 - 🌱 I’m currently learning React.js, Redux, Gatsby
 - 💞️ I’m looking to collaborate on Frontend applications for independent businesses
-- 📫 Reach me via kammacreative.com
+- 📫 Reach me via gabrielnathan@hotmail.co.uk
 
 <!---
 gnathang/gnathang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
