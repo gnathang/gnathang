@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gnathang
-Reach me via gabrielnathan@hotmail.co.uk
+- Reach me via gabrielnathan@hotmail.co.uk
 
 <!---
 gnathang/gnathang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
